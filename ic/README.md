@@ -1,3 +1,3 @@
 #icn
 
-ki las vertum kano octa sin 
+- ki las vertum kano octa sin 
