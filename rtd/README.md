@@ -11,6 +11,7 @@ Options available are HTML and CSS boxes but HTML and inline CSS markup can be u
 ## Install
 - HTML / copy the HTML markup and add it to HTML box
 - CSS (skip this step if you are using HTML with inline css) / copy CSS markup and paste it into CSS box
+- [full install instructions](https://diakpa.github.io/nio//rtd/)
 
 ## Need help with customization and install?
 I offer my service for a small fee so if you need help, [contact me](https://kpadesigns.blogspot.com/)
